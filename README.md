@@ -11,5 +11,5 @@ Auno do curso técnico em Desenvlvimento de Sistemas
 -CSS
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain-wordmark.svg" />
+<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain-wordmark.svg" />
           
