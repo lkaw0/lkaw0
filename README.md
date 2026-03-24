@@ -2,7 +2,7 @@
 
 Auno do curso técnico em Desenvlvimento de Sistemas
 
-### Tecnologias]
+### Tecnologias
 - C
 - C++
 - java 
